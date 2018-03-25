@@ -1,0 +1,9 @@
+com\gcit\springboot\lms\dao\BranchDAO$1.class
+com\gcit\springboot\lms\util\Config.class
+com\gcit\springboot\lms\entity\Copy.class
+com\gcit\springboot\lms\dao\CopyDAO.class
+com\gcit\springboot\lms\SpringbootLmsLibrarianApplication.class
+com\gcit\springboot\lms\controller\CopyController.class
+com\gcit\springboot\lms\entity\Branch.class
+com\gcit\springboot\lms\controller\BranchController.class
+com\gcit\springboot\lms\dao\BranchDAO.class

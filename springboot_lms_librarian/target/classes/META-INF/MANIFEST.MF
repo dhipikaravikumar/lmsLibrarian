@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot_lms_librarian
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Deepika Ravikumar
+Implementation-Vendor-Id: com.gcit.springboot
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot_lms_librarian
+Created-By: Maven Integration for Eclipse
+
